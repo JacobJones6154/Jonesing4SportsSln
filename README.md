@@ -38,3 +38,5 @@ This is a student demo based on Adam Freeman's PRO ASP.NET core 3 book.
 
 
 ## Chapter 8
+
+![Progress](https://github.com/JacobJones6154/Jonesing4SportsSln/blob/master/Clips/8-5.PNG)
