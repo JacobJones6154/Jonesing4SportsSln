@@ -1,9 +1,9 @@
 # Jonesing4SportsSln
 This is a student demo based on Adam Freeman's PRO ASP.NET core 3 book.
 
-## Chapter 7
+# Chapter 7
 
-## Create Solution and Projects;
+### Create Solution and Projects;
 
     dotnet new globaljson --sdk-version 3.1.302 --output OutdoorProductsSln/OutdoorProducts
     dotnet new web --no-https --output OutdoorProductsSln/OutdoorProducts --framework netcoreapp3.1
@@ -39,7 +39,7 @@ This is a student demo based on Adam Freeman's PRO ASP.NET core 3 book.
 ***
 ***
 
-## Chapter 8
+# Chapter 8
 
 ![Progress](https://github.com/JacobJones6154/Jonesing4SportsSln/blob/master/Clips/8-5.PNG)
 
