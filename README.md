@@ -1,6 +1,8 @@
 # Jonesing4SportsSln
 This is a student demo based on Adam Freeman's PRO ASP.NET core 3 book.
 
+## Chapter 7
+
 ## Create Solution and Projects;
 
     dotnet new globaljson --sdk-version 3.1.302 --output OutdoorProductsSln/OutdoorProducts
@@ -12,7 +14,7 @@ This is a student demo based on Adam Freeman's PRO ASP.NET core 3 book.
     dotnet add OutdoorProductsSln/OutdoorProducts.Tests reference OutdoorProductsSln/OutdoorProducts
 
 
-![SportsStore](https://github.com/JacobJones6154/Jonesin4Sports/blob/master/Sportsstore.PNG)
+![SportsStore](https://github.com/JacobJones6154/Jonesing4SportsSln/blob/master/Clips/Sportsstore.PNG)
 
 
 * What is Entity Framework?
@@ -32,4 +34,7 @@ This is a student demo based on Adam Freeman's PRO ASP.NET core 3 book.
     
 * Seeding the database
 
-![Progressimage](https://github.com/JacobJones6154/Jonesin4Sports/blob/master/7-9.PNG)
+![Progressimage](https://github.com/JacobJones6154/Jonesing4SportsSln/blob/master/Clips/7-9.PNG)
+
+
+## Chapter 8
