@@ -4,8 +4,7 @@ This is a student demo based on Adam Freeman's PRO ASP.NET core 3 book.
 ***
 ***
 
-
-# Chapter 7
+#  Chapter 7
 
 ### Create Solution and Projects;
 
