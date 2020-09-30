@@ -5,6 +5,14 @@ This is a student demo based on Adam Freeman's PRO ASP.NET core 3 book.
 ***
 ***
 
+[Chapter 7](#chapter-7)
+
+[Chapter 8](#chapter-8)
+
+[Chapter 9](#chapter-9)
+
+[Chapter 10](#chapter-10)
+
 # Chapter 7
 
 ### Create Solution and Projects;
