@@ -1,10 +1,11 @@
 # Jonesing4SportsSln
+
 This is a student demo based on Adam Freeman's PRO ASP.NET core 3 book.
 
 ***
 ***
 
-#  Chapter 7
+# Chapter 7
 
 ### Create Solution and Projects;
 
@@ -41,13 +42,51 @@ This is a student demo based on Adam Freeman's PRO ASP.NET core 3 book.
 
 ***
 ***
+***
 
 # Chapter 8
 
+**8-5**
+
 ![Progress](https://github.com/JacobJones6154/Jonesing4SportsSln/blob/master/Clips/8-5.PNG)
+
+**8-10**
 
 ![Progress](https://github.com/JacobJones6154/Jonesing4SportsSln/blob/master/Clips/8-10.PNG)
 
+**8-11**
+
 ![Progress](https://github.com/JacobJones6154/Jonesing4SportsSln/blob/master/Clips/8-11.PNG)
 
+**TestCases**
+
 ![Progress](https://github.com/JacobJones6154/Jonesing4SportsSln/blob/master/Clips/TestCases.PNG)
+
+***
+***
+***
+
+# Chapter 9
+
+**9-4**
+
+![9-4](https://github.com/JacobJones6154/Jonesing4SportsSln/blob/master/Clips/9-4.PNG)
+
+**9-5**
+
+![9-5](https://github.com/JacobJones6154/Jonesing4SportsSln/blob/master/Clips/9-5.PNG)
+
+**9-6**
+
+![9-6](https://github.com/JacobJones6154/Jonesing4SportsSln/blob/master/Clips/9-6.PNG)
+
+**TestCases**
+
+![TestCases](https://github.com/JacobJones6154/Jonesing4SportsSln/blob/master/Clips/TestCasesCh9.PNG)
+
+
+***
+***
+***
+
+
