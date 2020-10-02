@@ -4,6 +4,7 @@ This is a student demo based on Adam Freeman's PRO ASP.NET core 3 book.
 
 ***
 ***
+
 # Table of Contents
 
 [Chapter 7](#chapter-7)
